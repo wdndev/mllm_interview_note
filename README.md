@@ -11,3 +11,4 @@
 Sora
 
 1. [Sora技术原理解析](Sora/1.sora技术原理解析.md)
+2. [2.Transformers diffusion论文](Sora/2.Transformers diffusion论文.md)
