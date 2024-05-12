@@ -1,4 +1,4 @@
-# MLLMs  八股文
+# MLLMs 相关知识
 
 
 
@@ -10,7 +10,7 @@
 
 ## 在线阅读
 
-在线阅读链接：[LLMs Interview Note](http://wdndev.github.io/mllm_interview_note)
+在线阅读链接：[MLLMs Interview Note](http://wdndev.github.io/mllm_interview_note)
 
 
 ## 注意：
